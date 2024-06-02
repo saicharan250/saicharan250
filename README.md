@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saicharan250
-- 👀 I’m interested in codind
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on forntend development
 - 📫 How to reach me : n.saicharan255@gmail.com
